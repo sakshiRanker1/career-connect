@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/career-connect/static/css/main.3adf7b8c.css",
-    "main.js": "/career-connect/static/js/main.aec81d0c.js",
+    "main.js": "/career-connect/static/js/main.8bd27cac.js",
     "static/media/cool-background.png": "/career-connect/static/media/cool-background.8c252db8e4acab4196d4.png",
     "static/media/tesla.png": "/career-connect/static/media/tesla.07f612597196a0c119d9.png",
     "static/media/sap.jpeg": "/career-connect/static/media/sap.b2bc7f8625809466165a.jpeg",
@@ -16,10 +16,10 @@
     "static/media/cognizant.webp": "/career-connect/static/media/cognizant.322b3a8a75fff5cbbc7d.webp",
     "index.html": "/career-connect/index.html",
     "main.3adf7b8c.css.map": "/career-connect/static/css/main.3adf7b8c.css.map",
-    "main.aec81d0c.js.map": "/career-connect/static/js/main.aec81d0c.js.map"
+    "main.8bd27cac.js.map": "/career-connect/static/js/main.8bd27cac.js.map"
   },
   "entrypoints": [
     "static/css/main.3adf7b8c.css",
-    "static/js/main.aec81d0c.js"
+    "static/js/main.8bd27cac.js"
   ]
 }
