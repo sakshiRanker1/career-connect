@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/job-portall/static/css/main.b3a94803.css",
+    "main.js": "/job-portall/static/js/main.abd6a221.js",
+    "static/media/cool-background.png": "/job-portall/static/media/cool-background.8c252db8e4acab4196d4.png",
+    "static/media/tesla.png": "/job-portall/static/media/tesla.07f612597196a0c119d9.png",
+    "static/media/sap.jpeg": "/job-portall/static/media/sap.b2bc7f8625809466165a.jpeg",
+    "static/media/flp.jpeg": "/job-portall/static/media/flp.5f02dfcba9db57b63d0b.jpeg",
+    "static/media/synopsys.png": "/job-portall/static/media/synopsys.bea76ee6b322b1da4d3d.png",
+    "static/media/oracle.png": "/job-portall/static/media/oracle.c07667e36b072b6a4208.png",
+    "static/media/amazon.png": "/job-portall/static/media/amazon.138c5b5e99765ffac1a1.png",
+    "static/media/tcs.webp": "/job-portall/static/media/tcs.a7873527060d53dadef1.webp",
+    "static/media/accenture.jpeg": "/job-portall/static/media/accenture.efd3e5718eac1fbe59e7.jpeg",
+    "static/media/paytm.png": "/job-portall/static/media/paytm.fd7bf2f466023f3c3ace.png",
+    "static/media/ibm.jpeg": "/job-portall/static/media/ibm.b700f9aef98d6a67d5ad.jpeg",
+    "static/media/cognizant.webp": "/job-portall/static/media/cognizant.322b3a8a75fff5cbbc7d.webp",
+    "index.html": "/job-portall/index.html",
+    "main.b3a94803.css.map": "/job-portall/static/css/main.b3a94803.css.map",
+    "main.abd6a221.js.map": "/job-portall/static/js/main.abd6a221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a94803.css",
+    "static/js/main.abd6a221.js"
+  ]
+}
